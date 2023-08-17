@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-- 🔭 I’m currently working as (Put text accordingly).
+- 🔭 I’m currently working as Backend Developer.
 
-- 🌱 I’m currently expanding my knowledge in (Put text accordingly).
+- 🌱 I’m expanding my Python, Javascript, and OutSystems knowledge.
   
-- 👯 I’m looking to (Put text accordingly).
+- 👯 I’m looking to become a FullStack Dev.
   
 - 📢 Love to teach and inspire students.
   
